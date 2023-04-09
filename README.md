@@ -1,3 +1,17 @@
+
+
+# READ - 
+the table has two views kanban and tableview, you can click on them to select which view you want to see, the kanban one is sortable and filterable as mentioned in the docs
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
