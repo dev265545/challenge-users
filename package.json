@@ -1,0 +1,29 @@
+{
+  "name": "fastjob-challenge",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tanstack/react-table": "^8.8.5",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.3.5",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "flowbite": "^1.6.4",
+    "fs": "^0.0.1-security",
+    "next": "13.3.0",
+    "postcss": "8.4.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-table": "^7.8.0",
+    "tailwindcss": "3.3.1",
+    "twin.macro": "^3.3.0",
+    "uuid": "^9.0.0",
+    "zustand": "^4.3.7"
+  }
+}
